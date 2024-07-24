@@ -1,0 +1,28 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+.row {
+}
+
+#centreAli {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#ome_float {
+  /*position: absolute;*/
+  /*bottom: 50px;*/
+  /*z-index: 1;*/
+}
+
+#two-img {
+  float: right;
+}
+
+@media (min-width: 300px) {
+  .container {
+  }
+}
+
